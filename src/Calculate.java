@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Calculate {
 	
 	public static int add(int x, int y) {
+		System.out.println("Hii");
 		return x+y;
 	}
 	
