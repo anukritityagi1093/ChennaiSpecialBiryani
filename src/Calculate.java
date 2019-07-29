@@ -16,6 +16,7 @@ public class Calculate {
 	}
 	
 	public static int div(int x, int y) {
+		System.out.println("hhh");
 		return x/y;
 		
 	}
